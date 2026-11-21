@@ -12,3 +12,4 @@ PRE-PUBLISH CHECKLIST:
 
 The contact form is a front-end demo and opens the visitor's email app after you add your email address. It does not store submissions.
 The ₱300/month amount is presented as a proposed starting price based on your pitch.
+Deploy from a branch
